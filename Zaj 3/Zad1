@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 30 17:52:59 2017
+
+@author: biegbart
+"""
+
+def silniaR(liczba)
+    if (liczba>1) return(silniaR(liczba-1))
+    else return (1)
+
+def silniaI(liczba)
+    i = 1
+    while liczba>1
+        i = i*liczba
+        liczba =liczba - 1
+print("asda")
